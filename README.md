@@ -19,6 +19,8 @@ To get started with UdiaNixGPT, you need to clone the repository and install the
 
 - PHP >= 8.2
 - Composer
+- [Ollama installed and running](https://ollama.com/download)
+- [Model downloaded with ollama](https://ollama.com/library)
 
 ### Cloning the repository
 
