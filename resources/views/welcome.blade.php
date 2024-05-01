@@ -936,7 +936,7 @@
 
                 <main class="mt-6">
                     <div class="grid gap-6 lg:grid-cols-2 lg:gap-8">
-                        <a href="https://laravel.com/docs" id="docs-card" class="flex flex-col items-start gap-6 overflow-hidden rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3 lg:p-10 lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#FF2D20]">
+                        <a href="https://github.com/Unix-User/UdiaNixGPT" id="docs-card" class="flex flex-col items-start gap-6 overflow-hidden rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] md:row-span-3 lg:p-10 lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#FF2D20]">
                             <div id="screenshot-container" class="relative flex w-full flex-1 items-stretch">
                                 <img src="https://laravel.com/assets/img/welcome/docs-light.svg" alt="Laravel documentation screenshot" class="aspect-video h-full w-full flex-1 rounded-[10px] object-top object-cover drop-shadow-[0px_4px_34px_rgba(0,0,0,0.06)] dark:hidden" onerror="
                                             document.getElementById('screenshot-container').classList.add('!hidden');
@@ -958,7 +958,7 @@
                                     </div>
 
                                     <div class="pt-3 sm:pt-5 lg:pt-0">
-                                        <h2 class="text-xl font-semibold text-black dark:text-white">Documentação</h2>
+                                        <h2 class="text-xl font-semibold text-black dark:text-white">Repositório Do Projeto</h2>
 
                                         <p class="mt-4 text-sm/relaxed">
                                             O Ollama é uma plataforma inovadora que transforma a maneira como interagimos com aplicações web, oferecendo uma interface intuitiva e dinâmica para os usuários.
@@ -972,7 +972,7 @@
                             </div>
                         </a>
 
-                        <a href="https://laracasts.com" class="flex items-start gap-4 rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#FF2D20]">
+                        <a href="/chat" class="flex items-start gap-4 rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#FF2D20]">
                             <div class="flex size-12 shrink-0 items-center justify-center rounded-full bg-[#FF2D20]/10 sm:size-16">
                                 <svg class="size-5 sm:size-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                                     <g fill="#FF2D20">
@@ -982,10 +982,10 @@
                             </div>
 
                             <div class="pt-3 sm:pt-5">
-                                <h2 class="text-xl font-semibold text-black dark:text-white">Laracasts</h2>
+                                <h2 class="text-xl font-semibold text-black dark:text-white">Testar o Chat</h2>
 
                                 <p class="mt-4 text-sm/relaxed">
-                                    Explore tutoriais interativos sobre como integrar o Ollama em seus projetos Laravel e PHP, elevando a interatividade do usuário a um novo patamar.
+                                    Explore tutoriais interativos ou fale com o Llama3 sobre qualquer assunto utilizando o chat integrado ao site, com ele elevamos a interatividade dessa aplicação a um novo patamar.
                                 </p>
                             </div>
 
@@ -994,7 +994,7 @@
                             </svg>
                         </a>
 
-                        <a href="https://laravel-news.com" class="flex items-start gap-4 rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#FF2D20]">
+                        <a href="https://ollama.com/blog" class="flex items-start gap-4 rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#FF2D20]">
                             <div class="flex size-12 shrink-0 items-center justify-center rounded-full bg-[#FF2D20]/10 sm:size-16">
                                 <svg class="size-5 sm:size-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                                     <g fill="#FF2D20">
@@ -1006,10 +1006,10 @@
                             </div>
 
                             <div class="pt-3 sm:pt-5">
-                                <h2 class="text-xl font-semibold text-black dark:text-white">Laravel News</h2>
+                                <h2 class="text-xl font-semibold text-black dark:text-white">Ollama Blog</h2>
 
                                 <p class="mt-4 text-sm/relaxed">
-                                    Fique por dentro das últimas novidades e atualizações do Ollama, a ferramenta que está revolucionando a comunicação em aplicações Laravel.
+                                    Fique por dentro das últimas novidades e atualizações do Ollama, a ferramenta que está revolucionando a comunicação em aplicações na web.
                                 </p>
                             </div>
 
@@ -1018,7 +1018,7 @@
                             </svg>
                         </a>
 
-                        <div class="flex items-start gap-4 rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#FF2D20]">
+                        <a href="https://ollama.com/library" class="flex items-start gap-4 rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#FF2D20]">
                             <div class="flex size-12 shrink-0 items-center justify-center rounded-full bg-[#FF2D20]/10 sm:size-16">
                                 <svg class="size-5 sm:size-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                                     <g fill="#FF2D20">
@@ -1028,13 +1028,13 @@
                             </div>
 
                             <div class="pt-3 sm:pt-5">
-                                <h2 class="text-xl font-semibold text-black dark:text-white">Ecossistema Vibrante</h2>
+                                <h2 class="text-xl font-semibold text-black dark:text-white">Ollama Models</h2>
 
                                 <p class="mt-4 text-sm/relaxed">
-                                    Descubra como o Ollama potencializa o ecossistema Laravel com suas ferramentas e bibliotecas, proporcionando soluções avançadas e eficientes para desenvolvedores.
+                                    Descubra model e tutoriais do Ollama para potencializar o ecossistema Laravel com ferramentas e bibliotecas, proporcionando soluções avançadas e eficientes para desenvolvedores.
                                 </p>
                             </div>
-                        </div>
+                        </a>
                     </div>
                 </main>
 

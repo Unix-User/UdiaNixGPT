@@ -21,3 +21,15 @@ To get started with UdiaNixGPT, you need to clone the repository and install the
 - Composer
 
 ### Cloning the repository
+
+```
+git clone https://github.com/Unix-User/UdiaNixGPT.git
+cd UdiaNixGPT
+composer install
+```
+
+### Running
+
+```
+php artisan serve
+```
