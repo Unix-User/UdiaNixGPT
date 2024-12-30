@@ -13,7 +13,7 @@ Route::get('/chat', function () {
 Route::post('/send-message', function (Request $request) {
     $response = Ollama::agent('You are a chat assistant...')
         ->prompt($request->message)
-        ->model('llama3')
+        ->model(env('OLLAMA_MODEL', 'gemma2'))
         ->ask();
     return back()->with('response', $response);
 });
